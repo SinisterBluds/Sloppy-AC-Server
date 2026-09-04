@@ -1,0 +1,243 @@
+[19/08/2026 12.46.30.807] (INF) Loading libraries...
+[19/08/2026 12.46.30.808] (INF) Loading Intave vdev-snapshot-df8e87b
+[19/08/2026 12.46.30.808] (INF) Enabling Intave vdev-snapshot-df8e87b
+[19/08/2026 12.46.30.809] (INF) Please stand by..
+[19/08/2026 12.46.30.809] (INF) Consider updating ProtocolLib
+[19/08/2026 12.46.30.809] (INF) Translated SET_COMMAND_MINECART to []
+[19/08/2026 12.46.30.809] (INF) Ignoring SCOREBOARD_TEAM packets
+[19/08/2026 12.46.30.809] (INF) Cloud is disabled
+[19/08/2026 12.46.30.809] (INF) Ignoring TAB_COMPLETE packets
+[19/08/2026 12.46.30.809] (INF) Ignoring CHAT packets
+[19/08/2026 12.46.30.809] (INF) Compressed "plugins/Intave/logs/intave2026_08_18.log"
+[19/08/2026 12.46.30.809] (INF) This version will dump netty threads when a player times out
+[19/08/2026 12.46.30.809] (INF) This version of Intave is not listed in the official version index
+[19/08/2026 12.46.30.809] (INF) Intave booted successfully
+[19/08/2026 12.46.30.809] (INF) All integration tests completed successfully.
+[19/08/2026 21.28.07.019] (INF) Changed trustfactor of ghost56f74aa to ORANGE (plugin ACSwitcher in class dev.acserver.acswitcher.player.PlayerStore)
+[19/08/2026 21.28.07.915] (INF) ghost56f74aa joined with version 1.8.9/47 and locale en_US
+[19/08/2026 21.46.04.702] (INF) Changed trustfactor of ghost56f74aa to ORANGE (plugin ACSwitcher in class dev.acserver.acswitcher.player.PlayerStore)
+[19/08/2026 21.46.05.662] (INF) ghost56f74aa joined with version 1.8.9/47 and locale en_US
+[19/08/2026 21.48.18.068] (DET) ghost56f74aa/orange performed invalid placement (dirt block on grass block, looking at a different grass block) (+2.50 -> 2.50 on interactionraytrace) | TPS: 20.00000 Ping: 3ms
+[19/08/2026 21.48.24.815] (DET) ghost56f74aa/orange performed invalid placement (dirt block on grass block, looking at dirt block) (+2.50 -> 5.00 on interactionraytrace) | TPS: 20.00001 Ping: 3ms
+[19/08/2026 21.48.24.825] (DET) ghost56f74aa/orange moved incorrectly (0.214972 / mv0h / 18as) (+10.00 -> 10.00 on physics) | TPS: 20.00001 Ping: 3ms
+[19/08/2026 21.48.24.856] (DET) ghost56f74aa/orange moved incorrectly (0.595791 / mvmh / 9as) (+10.00 -> 20.00 on physics) | TPS: 20.00001 Ping: 3ms
+[19/08/2026 21.48.25.106] (DET) ghost56f74aa/orange suspicious block-placement (back snap) (+0.00 -> 0.00 on placementanalysis) | TPS: 20.00001 Ping: 3ms
+[19/08/2026 21.48.25.258] (DET) ghost56f74aa/orange moved incorrectly (0.078550 / 50.0v0h / 36as) (+2.50 -> 22.50 on physics) | TPS: 20.00001 Ping: 3ms
+[19/08/2026 21.48.25.320] (DET) ghost56f74aa/orange suspicious block-placement (back snap) (+0.00 -> 0.00 on placementanalysis) | TPS: 20.00001 Ping: 3ms
+[19/08/2026 21.49.30.516] (INF) ghost56f74aa was assigned a green trustfactor by PermissionCheck, defaulting to Empty
+[19/08/2026 21.49.30.516] (INF) Changed trustfactor of ghost56f74aa to ORANGE (plugin ACSwitcher in class dev.acserver.acswitcher.player.PlayerStore)
+[19/08/2026 21.49.31.511] (INF) ghost56f74aa joined with version 1.8.9/47 and locale en_US
+[19/08/2026 21.49.58.688] (DET) ghost56f74aa/orange performed invalid placement (dirt block on grass block, looking at longgrass block) (+2.50 -> 2.50 on interactionraytrace) | TPS: 19.99996 Ping: 30ms
+[19/08/2026 21.50.51.581] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/445.80/0.00], movement: changed) (+5.00 -> 5.00 on heuristics) | TPS: 19.99996 Ping: 12ms
+[19/08/2026 21.50.51.681] (DET) ghost56f74aa/orange performed invalid placement (dirt block on dirt block, looking at a different dirt block) (+2.50 -> 5.00 on interactionraytrace) | TPS: 19.99995 Ping: 12ms
+[19/08/2026 21.50.52.232] (DET) ghost56f74aa/orange performed invalid placement (dirt block on dirt block, looking at a different dirt block) (+2.50 -> 7.50 on interactionraytrace) | TPS: 19.99995 Ping: 12ms
+[19/08/2026 21.50.52.535] (DET) ghost56f74aa/orange performed invalid placement (dirt block on grass block, looking at dirt block) (+2.50 -> 10.00 on interactionraytrace) | TPS: 19.99995 Ping: 12ms
+[19/08/2026 21.50.54.880] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [6.15/314.40/0.00]) (+5.00 -> 10.00 on heuristics) | TPS: 20.00005 Ping: 11ms
+[19/08/2026 21.50.54.911] (EXE) intave internals sendnotify ghost56f74aa is attacking suspiciously #1
+[19/08/2026 21.51.22.574] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/83.40/0.00], movement: changed) (+5.00 -> 15.00 on heuristics) | TPS: 20.00000 Ping: 9ms
+[19/08/2026 21.51.22.836] (DET) ghost56f74aa/orange performed invalid placement (dirt block on dirt block, looking at a different dirt block) (+0.63 -> 10.63 on interactionraytrace) | TPS: 20.00001 Ping: 9ms
+[19/08/2026 21.51.23.284] (DET) ghost56f74aa/orange performed invalid placement (dirt block on grass block, looking at stainedclay block) (+2.50 -> 13.13 on interactionraytrace) | TPS: 20.00001 Ping: 9ms
+[19/08/2026 21.51.23.285] (DET) ghost56f74aa/orange moved incorrectly (0.445374 / mv0h / 9as) (+10.00 -> 10.00 on physics) | TPS: 20.00001 Ping: 9ms
+[19/08/2026 21.51.23.981] (DET) ghost56f74aa/orange performed invalid placement (dirt block on grass block, looking at dirt block) (+2.50 -> 15.63 on interactionraytrace) | TPS: 19.99999 Ping: 9ms
+[19/08/2026 21.51.24.031] (DET) ghost56f74aa/orange performed invalid placement (dirt block on grass block, looking at dirt block) (+2.50 -> 18.13 on interactionraytrace) | TPS: 19.99999 Ping: 9ms
+[19/08/2026 21.51.24.082] (DET) ghost56f74aa/orange performed invalid placement (dirt block on grass block, looking at dirt block) (+2.50 -> 20.63 on interactionraytrace) | TPS: 19.99999 Ping: 9ms
+[19/08/2026 21.51.24.133] (DET) ghost56f74aa/orange performed invalid placement (dirt block on grass block, looking at dirt block) (+2.50 -> 23.13 on interactionraytrace) | TPS: 19.99999 Ping: 9ms
+[19/08/2026 21.51.24.224] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/112.95/0.00]) (+5.00 -> 20.00 on heuristics) | TPS: 19.99999 Ping: 9ms
+[19/08/2026 21.51.24.261] (EXE) intave internals sendnotify ghost56f74aa is attacking suspiciously #2
+[19/08/2026 21.51.29.983] (DET) ghost56f74aa/orange performed invalid placement (dirt block on dirt block, looking at a different dirt block) (+2.50 -> 25.38 on interactionraytrace) | TPS: 20.00004 Ping: 8ms
+[19/08/2026 21.51.30.012] (EXE) intave internals sendnotify ghost56f74aa/orange is interacting suspiciously
+[19/08/2026 21.51.30.033] (DET) ghost56f74aa/orange performed invalid placement (dirt block on dirt block, looking at a different dirt block) (+2.50 -> 27.88 on interactionraytrace) | TPS: 20.00004 Ping: 8ms
+[19/08/2026 21.51.30.081] (DET) ghost56f74aa/orange performed invalid placement (dirt block on dirt block, looking at a different dirt block) (+2.50 -> 30.38 on interactionraytrace) | TPS: 20.00004 Ping: 8ms
+[19/08/2026 21.51.30.135] (DET) ghost56f74aa/orange performed invalid placement (dirt block on dirt block, looking at a different dirt block) (+2.50 -> 32.88 on interactionraytrace) | TPS: 20.00004 Ping: 8ms
+[19/08/2026 21.51.30.180] (DET) ghost56f74aa/orange performed invalid placement (dirt block on dirt block, looking at a different dirt block) (+2.50 -> 35.38 on interactionraytrace) | TPS: 20.00004 Ping: 8ms
+[19/08/2026 21.51.35.733] (DET) ghost56f74aa/orange performed invalid placement (dirt block on dirt block, looking at woodstairs block) (+2.50 -> 37.88 on interactionraytrace) | TPS: 19.99995 Ping: 8ms
+[19/08/2026 21.51.36.282] (DET) ghost56f74aa/orange performed invalid placement (dirt block on dirt block, looking at woodstairs block) (+2.50 -> 40.13 on interactionraytrace) | TPS: 19.99995 Ping: 8ms
+[19/08/2026 21.51.36.333] (DET) ghost56f74aa/orange performed invalid placement (dirt block on dirt block, looking at a different dirt block) (+2.50 -> 42.63 on interactionraytrace) | TPS: 19.99995 Ping: 8ms
+[19/08/2026 21.51.38.475] (DET) ghost56f74aa/orange suspicious block-placement (back snap) (+0.00 -> 0.00 on placementanalysis) | TPS: 20.00003 Ping: 8ms
+[19/08/2026 21.53.08.382] (DET) ghost56f74aa/orange performed invalid placement (dirt block on grass block, looking at a different grass block) (+2.50 -> 44.88 on interactionraytrace) | TPS: 20.00003 Ping: 4ms
+[19/08/2026 21.53.08.881] (DET) ghost56f74aa/orange performed invalid placement (dirt block on grass block, looking at dirt block) (+2.50 -> 47.38 on interactionraytrace) | TPS: 19.99997 Ping: 4ms
+[19/08/2026 21.53.09.326] (DET) ghost56f74aa/orange moved incorrectly (0.156128 / mv0h / 9as) (+10.00 -> 10.00 on physics) | TPS: 19.99997 Ping: 4ms
+[19/08/2026 21.53.10.081] (DET) ghost56f74aa/orange performed invalid placement (dirt block on dirt block, invalid block face) (+0.63 -> 47.75 on interactionraytrace) | TPS: 20.00005 Ping: 4ms
+[19/08/2026 21.53.10.132] (DET) ghost56f74aa/orange performed invalid placement (dirt block on dirt block, looking at a different dirt block) (+0.63 -> 48.38 on interactionraytrace) | TPS: 20.00005 Ping: 4ms
+[19/08/2026 21.53.10.133] (DET) ghost56f74aa/orange moved incorrectly (0.078400 / 50.0v0h / 18as) (+2.50 -> 12.50 on physics) | TPS: 20.00005 Ping: 4ms
+[19/08/2026 21.53.10.327] (DET) ghost56f74aa/orange performed invalid placement (dirt block on grass block, looking at dirt block) (+2.50 -> 50.88 on interactionraytrace) | TPS: 20.00005 Ping: 4ms
+[19/08/2026 21.53.10.327] (DET) ghost56f74aa/orange moved incorrectly (0.135132 / mv0h / 99ds0.19ms) (+10.00 -> 22.50 on physics) | TPS: 20.00005 Ping: 4ms
+[19/08/2026 21.53.10.383] (DET) ghost56f74aa/orange performed invalid placement (dirt block on grass block, looking at dirt block) (+2.50 -> 53.38 on interactionraytrace) | TPS: 20.00005 Ping: 4ms
+[19/08/2026 21.53.10.383] (DET) ghost56f74aa/orange moved incorrectly (0.315127 / mvmh / 9as) (+10.00 -> 32.50 on physics) | TPS: 20.00005 Ping: 4ms
+[19/08/2026 21.53.16.382] (DET) ghost56f74aa/orange moved incorrectly (0.002646 / 0v0h / 1f_2x37bs) (+0.02 -> 32.52 on physics) | TPS: 20.00005 Ping: 4ms
+[19/08/2026 21.53.16.575] (DET) ghost56f74aa/orange moved incorrectly (0.229400 / 0vmh / 36as) (+10.00 -> 42.52 on physics) | TPS: 20.00005 Ping: 4ms
+[19/08/2026 21.53.17.577] (DET) ghost56f74aa/orange moved incorrectly (0.004236 / 0v15.0h / 1f_1x54ds0.11ms) (+0.75 -> 43.27 on physics) | TPS: 20.00004 Ping: 4ms
+[19/08/2026 21.54.45.582] (DET) ghost56f74aa/orange performed invalid placement (dirt block on grass block, looking at a different grass block) (+2.50 -> 55.63 on interactionraytrace) | TPS: 19.99998 Ping: 3ms
+[19/08/2026 21.54.47.584] (DET) ghost56f74aa/orange performed invalid placement (dirt block on grass block, looking at a different grass block) (+2.50 -> 57.88 on interactionraytrace) | TPS: 20.00002 Ping: 3ms
+[19/08/2026 21.54.47.585] (DET) ghost56f74aa/orange moved incorrectly (0.445420 / mv0h / 18as) (+10.00 -> 10.00 on physics) | TPS: 20.00002 Ping: 3ms
+[19/08/2026 21.54.48.480] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/112.20/5.25], movement: silent) (+5.00 -> 25.00 on heuristics) | TPS: 19.99999 Ping: 3ms
+[19/08/2026 21.54.48.631] (DET) ghost56f74aa/orange performed invalid placement (dirt block on dirt block, looking at grass block) (+2.50 -> 60.38 on interactionraytrace) | TPS: 20.00004 Ping: 3ms
+[19/08/2026 21.54.48.661] (EXE) intave internals sendnotify ghost56f74aa/orange is interacting suspiciously #2
+[19/08/2026 21.54.48.681] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.60/358.05/2.25]) (+5.00 -> 30.00 on heuristics) | TPS: 20.00004 Ping: 3ms
+[19/08/2026 21.54.48.711] (EXE) intave internals storelog ghost56f74aa Heuristics 30.00
+[19/08/2026 21.54.48.713] (EXE) intave internals sendnotify ghost56f74aa/orange has been removed for attacking suspiciously (on-premise classic heuristics)
+[19/08/2026 21.54.48.714] (EXE) ban ghost56f74aa Cheating / No Log-Id
+[19/08/2026 21.54.48.830] (DET) ghost56f74aa/orange performed invalid placement (dirt block on dirt block, looking at grass block) (+2.50 -> 62.88 on interactionraytrace) | TPS: 20.00004 Ping: 3ms
+[19/08/2026 21.54.48.831] (DET) ghost56f74aa/orange moved incorrectly (0.214972 / mv0h / 9as) (+10.00 -> 20.00 on physics) | TPS: 20.00004 Ping: 3ms
+[19/08/2026 21.54.51.425] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/585.75/0.00]) (+5.00 -> 35.00 on heuristics) | TPS: 20.00000 Ping: 2ms
+[19/08/2026 22.00.09.465] (INF) ghost56f74aa was assigned a green trustfactor by PermissionCheck, defaulting to Empty
+[19/08/2026 22.00.09.468] (INF) Changed trustfactor of ghost56f74aa to ORANGE (plugin ACSwitcher in class dev.acserver.acswitcher.player.PlayerStore)
+[19/08/2026 22.00.10.461] (INF) ghost56f74aa joined with version 1.8.9/47 and locale en_US
+[19/08/2026 22.00.19.581] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/75.15/0.00], movement: silent) (+5.00 -> 5.00 on heuristics) | TPS: 19.99997 Ping: 73ms
+[19/08/2026 22.00.21.931] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/135.15/0.00], movement: silent) (+5.00 -> 10.00 on heuristics) | TPS: 20.00003 Ping: 61ms
+[19/08/2026 22.00.21.963] (EXE) intave internals sendnotify ghost56f74aa is attacking suspiciously #1
+[19/08/2026 22.00.22.280] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/89.70/0.00], movement: silent) (+5.00 -> 15.00 on heuristics) | TPS: 20.00003 Ping: 59ms
+[19/08/2026 22.00.23.633] (DET) ghost56f74aa/orange rotation snapped suspiciously while scaffolding (rotation snap, yaw: 60.60) (+5.00 -> 20.00 on heuristics) | TPS: 19.99994 Ping: 52ms
+[19/08/2026 22.00.23.661] (EXE) intave internals sendnotify ghost56f74aa is attacking suspiciously #2
+[19/08/2026 22.00.24.081] (DET) ghost56f74aa/orange rotation snapped suspiciously while scaffolding (rotation snap, yaw: 88.35) (+5.00 -> 25.00 on heuristics) | TPS: 19.99994 Ping: 50ms
+[19/08/2026 22.00.30.181] (DET) ghost56f74aa/orange rotation snapped suspiciously while scaffolding (rotation snap, yaw: 109.50) (+5.00 -> 30.00 on heuristics) | TPS: 20.00000 Ping: 37ms
+[19/08/2026 22.00.30.211] (EXE) intave internals storelog ghost56f74aa Heuristics 30.00
+[19/08/2026 22.00.30.212] (EXE) intave internals sendnotify ghost56f74aa/orange has been removed for attacking suspiciously (on-premise classic heuristics)
+[19/08/2026 22.00.30.212] (EXE) ban ghost56f74aa Cheating / No Log-Id
+[19/08/2026 22.01.37.460] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 0.00 on placementanalysis) | TPS: 20.00004 Ping: 11ms
+[19/08/2026 22.01.37.511] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 0.00 on placementanalysis) | TPS: 20.00004 Ping: 11ms
+[19/08/2026 22.01.37.561] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 0.00 on placementanalysis) | TPS: 20.00004 Ping: 11ms
+[19/08/2026 22.01.37.611] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 0.00 on placementanalysis) | TPS: 19.99996 Ping: 11ms
+[19/08/2026 22.01.38.134] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/179.85/0.00], movement: changed) (+5.00 -> 35.00 on heuristics) | TPS: 19.99996 Ping: 11ms
+[19/08/2026 22.01.38.782] (DET) ghost56f74aa/orange rotation snapped suspiciously while scaffolding (rotation snap, yaw: 425.40) (+5.00 -> 40.00 on heuristics) | TPS: 20.00003 Ping: 11ms
+[19/08/2026 22.01.39.061] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 0.00 on placementanalysis) | TPS: 20.00003 Ping: 11ms
+[19/08/2026 22.01.39.110] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 0.00 on placementanalysis) | TPS: 20.00003 Ping: 11ms
+[19/08/2026 22.01.39.160] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 0.00 on placementanalysis) | TPS: 20.00003 Ping: 11ms
+[19/08/2026 22.01.39.211] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 0.00 on placementanalysis) | TPS: 20.00003 Ping: 11ms
+[19/08/2026 22.01.39.260] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 0.00 on placementanalysis) | TPS: 20.00003 Ping: 11ms
+[19/08/2026 22.01.39.932] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/55.05/0.00]) (+5.00 -> 45.00 on heuristics) | TPS: 20.00003 Ping: 11ms
+[19/08/2026 22.01.40.261] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 0.00 on placementanalysis) | TPS: 20.00003 Ping: 11ms
+[19/08/2026 22.01.40.432] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/179.70/0.00]) (+5.00 -> 50.00 on heuristics) | TPS: 20.00003 Ping: 11ms
+[19/08/2026 22.02.12.433] (DET) ghost56f74aa/orange rotation snapped suspiciously while scaffolding (rotation snap, yaw: 69.30) (+5.00 -> 55.00 on heuristics) | TPS: 20.00000 Ping: 8ms
+[19/08/2026 22.02.19.361] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 0.00 on placementanalysis) | TPS: 20.00000 Ping: 8ms
+[19/08/2026 22.02.19.411] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 0.00 on placementanalysis) | TPS: 20.00000 Ping: 8ms
+[19/08/2026 22.02.21.883] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [7.20/103.35/0.00], movement: silent) (+5.00 -> 60.00 on heuristics) | TPS: 19.99994 Ping: 7ms
+[19/08/2026 22.02.22.661] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 0.00 on placementanalysis) | TPS: 19.99998 Ping: 7ms
+[19/08/2026 22.02.23.082] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/50.10/3.30], movement: silent) (+5.00 -> 65.00 on heuristics) | TPS: 19.99998 Ping: 7ms
+[19/08/2026 22.02.23.983] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [3.60/57.60/0.00], movement: silent) (+5.00 -> 70.00 on heuristics) | TPS: 19.99998 Ping: 7ms
+[19/08/2026 22.02.24.432] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [5.10/161.40/7.65], movement: silent) (+5.00 -> 75.00 on heuristics) | TPS: 19.99998 Ping: 7ms
+[19/08/2026 22.02.50.182] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.15/91.50/0.00], movement: silent) (+5.00 -> 80.00 on heuristics) | TPS: 19.99999 Ping: 6ms
+[19/08/2026 22.02.51.781] (DET) ghost56f74aa/orange rotation snapped suspiciously while scaffolding (rotation snap, yaw: 131.10) (+5.00 -> 85.00 on heuristics) | TPS: 20.00001 Ping: 6ms
+[19/08/2026 22.03.12.432] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/107.10/0.00], movement: silent) (+5.00 -> 90.00 on heuristics) | TPS: 19.99999 Ping: 5ms
+[19/08/2026 22.03.13.033] (DET) ghost56f74aa/orange rotation snapped suspiciously while scaffolding (rotation snap, yaw: 27.60) (+5.00 -> 95.00 on heuristics) | TPS: 19.99997 Ping: 5ms
+[19/08/2026 22.03.14.782] (DET) ghost56f74aa/orange rotation snapped suspiciously while scaffolding (rotation snap, yaw: 229.35) (+5.00 -> 100.00 on heuristics) | TPS: 20.00001 Ping: 5ms
+[19/08/2026 22.03.16.133] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [4.65/120.00/0.30], movement: silent) (+5.00 -> 105.00 on heuristics) | TPS: 20.00000 Ping: 5ms
+[19/08/2026 22.03.16.282] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/74.10/8.10], movement: silent) (+5.00 -> 110.00 on heuristics) | TPS: 20.00000 Ping: 5ms
+[19/08/2026 22.03.17.261] (DET) ghost56f74aa/orange suspicious block-placement (high rotation activity while placing blocks) (+10.00 -> 10.00 on placementanalysis) | TPS: 20.00003 Ping: 5ms
+[19/08/2026 22.03.18.633] (DET) ghost56f74aa/orange rotation snapped suspiciously while scaffolding (rotation snap, yaw: 382.80) (+5.00 -> 115.00 on heuristics) | TPS: 20.00002 Ping: 5ms
+[19/08/2026 22.03.18.883] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [1.65/120.00/0.00], movement: silent) (+5.00 -> 120.00 on heuristics) | TPS: 20.00002 Ping: 5ms
+[19/08/2026 22.03.19.382] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/59.25/0.00], movement: silent) (+5.00 -> 125.00 on heuristics) | TPS: 20.00002 Ping: 5ms
+[19/08/2026 22.03.20.034] (DET) ghost56f74aa/orange suspicious block-placement (back snap) (+0.00 -> 10.00 on placementanalysis) | TPS: 20.00003 Ping: 5ms
+[19/08/2026 22.03.20.683] (DET) ghost56f74aa/orange rotation snapped suspiciously while scaffolding (rotation snap, yaw: 431.10) (+5.00 -> 130.00 on heuristics) | TPS: 20.00000 Ping: 5ms
+[19/08/2026 22.04.35.632] (DET) ghost56f74aa/orange rotation snapped suspiciously while scaffolding (rotation snap, yaw: 275.70) (+5.00 -> 135.00 on heuristics) | TPS: 20.00001 Ping: 3ms
+[19/08/2026 22.04.38.831] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/150.00/0.00], movement: silent) (+5.00 -> 140.00 on heuristics) | TPS: 19.99998 Ping: 3ms
+[19/08/2026 22.04.39.032] (DET) ghost56f74aa/orange rotation snapped suspiciously while scaffolding (rotation snap, yaw: 30.60) (+5.00 -> 145.00 on heuristics) | TPS: 19.99998 Ping: 3ms
+[19/08/2026 22.04.41.633] (DET) ghost56f74aa/orange rotation snapped suspiciously while scaffolding (rotation snap, yaw: 106.80) (+5.00 -> 150.00 on heuristics) | TPS: 19.99998 Ping: 3ms
+[19/08/2026 22.04.54.232] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [1.05/150.00/0.00], movement: silent) (+5.00 -> 155.00 on heuristics) | TPS: 20.00001 Ping: 3ms
+[19/08/2026 22.04.55.732] (DET) ghost56f74aa/orange rotation snapped suspiciously while scaffolding (rotation snap, yaw: 173.25) (+5.00 -> 160.00 on heuristics) | TPS: 19.99997 Ping: 3ms
+[19/08/2026 22.04.59.584] (DET) ghost56f74aa/orange rotation snapped suspiciously while scaffolding (rotation snap, yaw: 28.95) (+5.00 -> 165.00 on heuristics) | TPS: 20.00000 Ping: 2ms
+[19/08/2026 22.05.01.011] (DET) ghost56f74aa/orange suspicious block-placement (high rotation activity while placing blocks) (+10.00 -> 20.00 on placementanalysis) | TPS: 20.00000 Ping: 2ms
+[19/08/2026 22.05.41.633] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/455.25/0.00], movement: silent) (+5.00 -> 170.00 on heuristics) | TPS: 19.99996 Ping: 2ms
+[19/08/2026 22.06.02.632] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [2.85/87.30/0.00]) (+5.00 -> 175.00 on heuristics) | TPS: 20.00003 Ping: 2ms
+[19/08/2026 22.06.03.131] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/81.90/0.00], movement: changed) (+5.00 -> 180.00 on heuristics) | TPS: 20.00003 Ping: 2ms
+[19/08/2026 22.06.07.211] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 20.00 on placementanalysis) | TPS: 20.00001 Ping: 2ms
+[19/08/2026 22.06.07.261] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 20.00 on placementanalysis) | TPS: 20.00001 Ping: 2ms
+[19/08/2026 22.06.07.311] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 20.00 on placementanalysis) | TPS: 20.00001 Ping: 2ms
+[19/08/2026 22.06.07.360] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 20.00 on placementanalysis) | TPS: 20.00001 Ping: 2ms
+[19/08/2026 22.06.07.410] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 20.00 on placementanalysis) | TPS: 20.00001 Ping: 2ms
+[19/08/2026 22.06.08.460] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 20.00 on placementanalysis) | TPS: 20.00001 Ping: 2ms
+[19/08/2026 22.06.08.510] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 20.00 on placementanalysis) | TPS: 20.00001 Ping: 2ms
+[19/08/2026 22.06.08.560] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 20.00 on placementanalysis) | TPS: 20.00001 Ping: 2ms
+[19/08/2026 22.06.08.610] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 20.00 on placementanalysis) | TPS: 20.00003 Ping: 2ms
+[19/08/2026 22.06.09.682] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/159.30/0.00], movement: silent) (+5.00 -> 185.00 on heuristics) | TPS: 19.99998 Ping: 2ms
+[19/08/2026 22.06.10.911] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 20.00 on placementanalysis) | TPS: 19.99999 Ping: 2ms
+[19/08/2026 22.06.10.961] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 20.00 on placementanalysis) | TPS: 19.99999 Ping: 2ms
+[19/08/2026 22.06.11.010] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 20.00 on placementanalysis) | TPS: 19.99999 Ping: 2ms
+[19/08/2026 22.06.12.111] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 20.00 on placementanalysis) | TPS: 19.99997 Ping: 1ms
+[19/08/2026 22.06.12.161] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 20.00 on placementanalysis) | TPS: 19.99997 Ping: 1ms
+[19/08/2026 22.06.12.211] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 20.00 on placementanalysis) | TPS: 19.99997 Ping: 1ms
+[19/08/2026 22.06.12.261] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 20.00 on placementanalysis) | TPS: 19.99997 Ping: 1ms
+[19/08/2026 22.06.12.311] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 20.00 on placementanalysis) | TPS: 19.99997 Ping: 1ms
+[19/08/2026 22.06.12.361] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 20.00 on placementanalysis) | TPS: 19.99997 Ping: 1ms
+[19/08/2026 22.06.12.410] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 20.00 on placementanalysis) | TPS: 19.99997 Ping: 1ms
+[19/08/2026 22.06.12.461] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 20.00 on placementanalysis) | TPS: 19.99997 Ping: 1ms
+[19/08/2026 22.06.12.511] (DET) ghost56f74aa/orange suspicious block-placement (maintains sharp 180deg rotations) (+0.00 -> 20.00 on placementanalysis) | TPS: 19.99997 Ping: 1ms
+[19/08/2026 22.06.42.585] (DET) ghost56f74aa/orange performed invalid placement (dirt block on dirt block, impossible block face) (+5.00 -> 5.00 on interactionraytrace) | TPS: 20.00000 Ping: 1ms
+[19/08/2026 22.06.42.835] (DET) ghost56f74aa/orange performed invalid placement (dirt block on dirt block, impossible block face) (+5.00 -> 10.00 on interactionraytrace) | TPS: 20.00001 Ping: 1ms
+[19/08/2026 22.06.43.586] (DET) ghost56f74aa/orange performed invalid placement (dirt block on grass block, looking at dirt block) (+2.50 -> 12.50 on interactionraytrace) | TPS: 20.00001 Ping: 1ms
+[19/08/2026 22.06.48.586] (DET) ghost56f74aa/orange performed invalid placement (dirt block on grass block, looking at dirt block) (+2.50 -> 15.00 on interactionraytrace) | TPS: 20.00002 Ping: 1ms
+[19/08/2026 22.06.48.635] (DET) ghost56f74aa/orange performed invalid placement (dirt block on grass block, looking at dirt block) (+2.50 -> 17.50 on interactionraytrace) | TPS: 19.99999 Ping: 1ms
+[19/08/2026 22.06.50.886] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/181.80/0.00], movement: changed) (+5.00 -> 190.00 on heuristics) | TPS: 19.99995 Ping: 1ms
+[19/08/2026 22.07.18.536] (DET) ghost56f74aa/orange performed invalid break (bed block, but looking at a different bed block) (+5.00 -> 22.50 on interactionraytrace) | TPS: 20.00004 Ping: 1ms
+[19/08/2026 22.07.25.183] (DET) ghost56f74aa/orange performed invalid break (bed block, but looking at a different bed block) (+5.00 -> 27.00 on interactionraytrace) | TPS: 20.00000 Ping: 1ms
+[19/08/2026 22.07.25.211] (EXE) intave internals sendnotify ghost56f74aa/orange is interacting suspiciously
+[19/08/2026 22.07.25.782] (DET) ghost56f74aa/orange performed invalid break (bed block, but looking at a different bed block) (+5.00 -> 32.00 on interactionraytrace) | TPS: 19.99994 Ping: 1ms
+[19/08/2026 22.07.26.383] (DET) ghost56f74aa/orange performed invalid break (bed block, but looking at a different bed block) (+5.00 -> 37.00 on interactionraytrace) | TPS: 19.99994 Ping: 1ms
+[19/08/2026 22.07.26.983] (DET) ghost56f74aa/orange performed invalid break (bed block, but looking at a different bed block) (+5.00 -> 42.00 on interactionraytrace) | TPS: 19.99997 Ping: 1ms
+[19/08/2026 22.07.26.983] (DET) ghost56f74aa/orange moved into emulated bed block (one box) (+0.00 -> 0.00 on physics) | TPS: 19.99997 Ping: 1ms
+[19/08/2026 22.08.35.233] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [3.60/176.70/2.55], movement: changed) (+5.00 -> 195.00 on heuristics) | TPS: 20.00001 Ping: 1ms
+[19/08/2026 22.08.36.283] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/178.20/0.00], movement: changed) (+5.00 -> 200.00 on heuristics) | TPS: 20.00001 Ping: 1ms
+[19/08/2026 22.09.34.832] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.15/176.70/2.55], movement: changed) (+5.00 -> 205.00 on heuristics) | TPS: 19.99999 Ping: 1ms
+[19/08/2026 22.09.40.584] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/900.15/0.00], movement: changed) (+5.00 -> 210.00 on heuristics) | TPS: 20.00005 Ping: 1ms
+[19/08/2026 22.12.59.066] (INF) ghost56f74aa was assigned a green trustfactor by PermissionCheck, defaulting to Empty
+[19/08/2026 22.12.59.066] (INF) Changed trustfactor of ghost56f74aa to ORANGE (plugin ACSwitcher in class dev.acserver.acswitcher.player.PlayerStore)
+[19/08/2026 22.13.00.061] (INF) ghost56f74aa joined with version 1.8.9/47 and locale en_US
+[19/08/2026 22.13.05.041] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.75/180.90/0.00]) (+5.00 -> 5.00 on heuristics) | TPS: 20.00000 Ping: 77ms
+[19/08/2026 22.13.10.451] (DET) ghost56f74aa/orange suspicious block-placement (back snap) (+0.00 -> 0.00 on placementanalysis) | TPS: 20.00004 Ping: 52ms
+[19/08/2026 22.13.18.255] (DET) ghost56f74aa/orange performed invalid placement (dirt block on grass block, looking at a different grass block) (+2.50 -> 2.50 on interactionraytrace) | TPS: 20.00000 Ping: 34ms
+[19/08/2026 22.13.45.800] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [1.35/431.25/0.00]) (+5.00 -> 10.00 on heuristics) | TPS: 19.99999 Ping: 16ms
+[19/08/2026 22.13.45.810] (EXE) intave internals sendnotify ghost56f74aa is attacking suspiciously #1
+[19/08/2026 22.13.46.305] (DET) ghost56f74aa/orange suspicious block-placement (back snap) (+0.00 -> 0.00 on placementanalysis) | TPS: 19.99999 Ping: 16ms
+[19/08/2026 22.13.56.555] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [3.00/719.70/3.60], movement: changed) (+5.00 -> 15.00 on heuristics) | TPS: 19.99998 Ping: 13ms
+[19/08/2026 22.14.37.599] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [4.50/40.05/2.55]) (+5.00 -> 20.00 on heuristics) | TPS: 20.00001 Ping: 9ms
+[19/08/2026 22.14.37.612] (EXE) intave internals sendnotify ghost56f74aa is attacking suspiciously #2
+[19/08/2026 22.15.09.748] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/154.35/4.65]) (+5.00 -> 25.00 on heuristics) | TPS: 19.99998 Ping: 7ms
+[19/08/2026 22.15.13.811] (DET) ghost56f74aa/orange suspicious block-placement (high rotation activity while placing blocks) (+10.00 -> 10.00 on placementanalysis) | TPS: 19.99998 Ping: 7ms
+[19/08/2026 22.15.13.998] (DET) ghost56f74aa/orange rotation snapped suspiciously while scaffolding (rotation snap, yaw: 41.55) (+5.00 -> 30.00 on heuristics) | TPS: 19.99998 Ping: 7ms
+[19/08/2026 22.15.14.010] (EXE) intave internals storelog ghost56f74aa Heuristics 30.00
+[19/08/2026 22.15.14.011] (EXE) intave internals sendnotify ghost56f74aa/orange has been removed for attacking suspiciously (on-premise classic heuristics)
+[19/08/2026 22.15.14.011] (EXE) ban ghost56f74aa Cheating / No Log-Id
+[19/08/2026 22.15.14.099] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [7.65/46.35/0.00]) (+5.00 -> 35.00 on heuristics) | TPS: 19.99998 Ping: 7ms
+[19/08/2026 22.15.14.255] (DET) ghost56f74aa/orange performed invalid placement (dirt block on dirt block, invalid block face) (+0.63 -> 0.63 on interactionraytrace) | TPS: 19.99998 Ping: 7ms
+[19/08/2026 22.15.48.048] (DET) ghost56f74aa/orange rotation snapped suspiciously while scaffolding (rotation snap, yaw: 150.00) (+5.00 -> 40.00 on heuristics) | TPS: 20.00000 Ping: 6ms
+[19/08/2026 22.15.49.061] (DET) ghost56f74aa/orange suspicious block-placement (high rotation activity while placing blocks) (+10.00 -> 20.00 on placementanalysis) | TPS: 20.00001 Ping: 6ms
+[19/08/2026 22.15.49.099] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/128.10/0.00], movement: silent) (+5.00 -> 45.00 on heuristics) | TPS: 20.00001 Ping: 6ms
+[19/08/2026 22.15.49.749] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/85.20/0.00], movement: silent) (+5.00 -> 50.00 on heuristics) | TPS: 19.99998 Ping: 6ms
+[19/08/2026 22.15.50.549] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/68.70/0.00], movement: silent) (+5.00 -> 55.00 on heuristics) | TPS: 19.99998 Ping: 6ms
+[19/08/2026 22.15.50.698] (DET) ghost56f74aa/orange rotation snapped suspiciously while scaffolding (rotation snap, yaw: 38.55) (+5.00 -> 60.00 on heuristics) | TPS: 20.00003 Ping: 5ms
+[19/08/2026 22.15.51.348] (DET) ghost56f74aa/orange rotation snapped suspiciously while scaffolding (rotation snap, yaw: 303.75) (+5.00 -> 65.00 on heuristics) | TPS: 20.00003 Ping: 5ms
+[19/08/2026 22.16.01.454] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [6.45/591.90/0.30]) (+5.00 -> 70.00 on heuristics) | TPS: 19.99996 Ping: 5ms
+[19/08/2026 22.16.06.148] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/150.00/0.00], movement: silent) (+5.00 -> 75.00 on heuristics) | TPS: 20.00003 Ping: 5ms
+[19/08/2026 22.16.06.298] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/69.30/0.00], movement: silent) (+5.00 -> 80.00 on heuristics) | TPS: 20.00003 Ping: 5ms
+[19/08/2026 22.16.13.699] (DET) ghost56f74aa/orange suspicious block-placement (128deg snap to 45deg angle over 5 ticks) (+6.00 -> 26.00 on placementanalysis) | TPS: 19.99997 Ping: 4ms
+[19/08/2026 22.16.13.948] (DET) ghost56f74aa/orange rotation snapped suspiciously while scaffolding (rotation snap, yaw: 56.55) (+5.00 -> 85.00 on heuristics) | TPS: 19.99997 Ping: 4ms
+[19/08/2026 22.16.14.048] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [6.60/91.05/0.00]) (+5.00 -> 90.00 on heuristics) | TPS: 19.99997 Ping: 4ms
+[19/08/2026 22.16.14.960] (DET) ghost56f74aa/orange suspicious block-placement (high rotation activity while placing blocks) (+10.00 -> 36.00 on placementanalysis) | TPS: 19.99997 Ping: 4ms
+[19/08/2026 22.16.14.998] (DET) ghost56f74aa/orange performed erroneous block placement (emulation failed for PLACE with DIRT in hand, direction 5 at y 71) (+0.00 -> 0.00 on interactionraytrace) | TPS: 19.99997 Ping: 4ms
+[19/08/2026 22.16.15.048] (DET) ghost56f74aa/orange performed erroneous block placement (emulation failed for PLACE with DIRT in hand, direction 5 at y 71) (+0.00 -> 0.00 on interactionraytrace) | TPS: 19.99997 Ping: 4ms
+[19/08/2026 22.16.15.100] (DET) ghost56f74aa/orange performed erroneous block placement (emulation failed for PLACE with DIRT in hand, direction 5 at y 71) (+0.00 -> 0.00 on interactionraytrace) | TPS: 19.99997 Ping: 4ms
+[19/08/2026 22.16.15.101] (DET) ghost56f74aa/orange moved incorrectly (0.080606 / 50.0v0.1h / 18as) (+2.51 -> 2.51 on physics) | TPS: 19.99997 Ping: 4ms
+[19/08/2026 22.16.57.711] (DET) ghost56f74aa/orange suspicious block-placement (high rotation activity while placing blocks) (+10.00 -> 46.00 on placementanalysis) | TPS: 19.99999 Ping: 3ms
+[19/08/2026 22.16.57.749] (DET) ghost56f74aa/orange performed erroneous block placement (emulation failed for PLACE with DIRT in hand, direction 2 at y 70) (+0.00 -> 0.00 on interactionraytrace) | TPS: 19.99999 Ping: 3ms
+[19/08/2026 22.16.57.797] (DET) ghost56f74aa/orange performed erroneous block placement (emulation failed for PLACE with DIRT in hand, direction 2 at y 70) (+0.00 -> 0.00 on interactionraytrace) | TPS: 19.99999 Ping: 3ms
+[19/08/2026 22.16.57.848] (DET) ghost56f74aa/orange performed erroneous block placement (emulation failed for PLACE with DIRT in hand, direction 2 at y 70) (+0.00 -> 0.00 on interactionraytrace) | TPS: 19.99999 Ping: 3ms
+[19/08/2026 22.16.57.898] (DET) ghost56f74aa/orange performed erroneous block placement (emulation failed for PLACE with DIRT in hand, direction 2 at y 70) (+0.00 -> 0.00 on interactionraytrace) | TPS: 19.99999 Ping: 3ms
+[19/08/2026 22.16.57.899] (DET) ghost56f74aa/orange moved incorrectly (0.080889 / 50.0v0.2h / 18as) (+2.51 -> 2.51 on physics) | TPS: 19.99999 Ping: 3ms
+[19/08/2026 22.16.58.199] (DET) ghost56f74aa/orange performed erroneous block placement (emulation failed for PLACE with DIRT in hand, direction 1 at y 67) (+0.00 -> 0.00 on interactionraytrace) | TPS: 19.99999 Ping: 3ms
+[19/08/2026 22.16.58.200] (DET) ghost56f74aa/orange moved incorrectly (0.099304 / 50.0v0h / 9as) (+2.50 -> 5.01 on physics) | TPS: 19.99999 Ping: 3ms
+[19/08/2026 22.16.58.200] (DET) ghost56f74aa/orange claimed to be on ground midair (falling 0.82 blocks) (+0.50 -> 5.51 on physics) | TPS: 19.99999 Ping: 3ms
+[19/08/2026 22.16.58.247] (DET) ghost56f74aa/orange performed erroneous block placement (emulation failed for PLACE with DIRT in hand, direction 1 at y 67) (+0.00 -> 0.00 on interactionraytrace) | TPS: 19.99999 Ping: 3ms
+[19/08/2026 22.16.58.248] (DET) ghost56f74aa/orange moved incorrectly (0.487573 / mv0h / 18as) (+10.00 -> 15.51 on physics) | TPS: 19.99999 Ping: 3ms
+[19/08/2026 22.16.58.299] (DET) ghost56f74aa/orange performed erroneous block placement (emulation failed for PLACE with DIRT in hand, direction 1 at y 67) (+0.00 -> 0.00 on interactionraytrace) | TPS: 19.99999 Ping: 3ms
+[19/08/2026 22.17.57.099] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/45.75/0.00], movement: silent) (+5.00 -> 95.00 on heuristics) | TPS: 20.00001 Ping: 2ms
+[19/08/2026 22.23.49.514] (INF) ghost56f74aa was assigned a green trustfactor by PermissionCheck, defaulting to Empty
+[19/08/2026 22.23.49.515] (INF) Changed trustfactor of ghost56f74aa to ORANGE (plugin ACSwitcher in class dev.acserver.acswitcher.player.PlayerStore)
+[19/08/2026 22.23.50.510] (INF) ghost56f74aa joined with version 1.8.9/47 and locale en_US
+[19/08/2026 22.23.55.742] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/120.00/0.00], movement: silent) (+5.00 -> 5.00 on heuristics) | TPS: 19.99995 Ping: 87ms
+[19/08/2026 22.24.00.347] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [0.00/83.10/0.00], movement: silent) (+5.00 -> 10.00 on heuristics) | TPS: 19.99994 Ping: 59ms
+[19/08/2026 22.24.00.361] (EXE) intave internals sendnotify ghost56f74aa is attacking suspiciously #1
+[19/08/2026 22.24.02.100] (DET) ghost56f74aa/orange rotation snapped suspiciously (rotation snap, yaw: [4.95/76.05/0.00], movement: silent) (+5.00 -> 15.00 on heuristics) | TPS: 19.99995 Ping: 51ms
+[19/08/2026 22.24.18.648] (DET) ghost56f74aa/orange rotation snapped suspiciously while scaffolding (rotation snap, yaw: 30.15) (+5.00 -> 20.00 on heuristics) | TPS: 20.00003 Ping: 27ms
+[19/08/2026 22.24.18.661] (EXE) intave internals sendnotify ghost56f74aa is attacking suspiciously #2
+[19/08/2026 23.01.16.491] (INF) Disabling Intave vdev-snapshot-df8e87b
+[19/08/2026 23.01.16.495] (INF) Stopping Intave
