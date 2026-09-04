@@ -1,0 +1,92 @@
+# ============================================================
+# ACServer — scope: only Server-Plugin + AC-Test are tracked.
+# Explicitly excluded: AC-SoftFork/, References/, root *.txt
+# ============================================================
+
+# --- Requested exclusions ---
+/AC-SoftFork/
+References/
+/*.txt
+
+# --- Maven / Java build output (Server-Plugin) ---
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.mvn/
+.classpath
+.project
+.settings/
+out/
+
+# --- Minecraft server runtime (AC-Test) ---
+# Server binary + patch caches
+AC-Test/server.jar
+AC-Test/cache/
+AC-Test/logs/
+AC-Test/world/
+AC-Test/world-original-generated/
+AC-Test/world-port/__pycache__/
+
+# Crash + runtime logs anywhere in test server
+*.log
+*.log.gz
+hs_err_pid*.log
+server.log
+AC-Test/plugins/**/logs/
+
+# Live world / player data (never commit)
+*.mca
+*.mcr
+session.lock
+uid.dat
+level.dat
+level.dat_old
+level.dat_old.gz
+idcounts.dat
+forcedchunks.dat
+playerdata/
+stats/
+advancements/
+usercache.json
+usernamecache.json
+
+# Server identity / operator state (machine-local, may leak names/UUIDs)
+ops.json
+whitelist.json
+banned-players.json
+banned-ips.json
+usercache.json
+usernamecache.json
+eula.txt
+
+# Plugin runtime state (keep *.yml configs, drop data/telemetry/dbs)
+AC-Test/plugins/**/player-data/
+AC-Test/plugins/**/telemetry/
+AC-Test/plugins/**/data/
+AC-Test/plugins/**/databases/
+AC-Test/plugins/**/*.db
+AC-Test/plugins/**/storage-instance.uuid
+AC-Test/plugins/**/lastupdate
+AC-Test/plugins/bStats/
+
+# --- Python (AC-Test/world-port tooling) ---
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.tmp
+*.bak

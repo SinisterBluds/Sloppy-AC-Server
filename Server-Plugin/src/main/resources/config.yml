@@ -1,0 +1,48 @@
+# ACSwitcher - per-player anticheat control for the AC test server.
+#
+# "Vanilla" is always on for everyone and can never be disabled.
+# Every anticheat listed below can be toggled per player via /ac or the MCP API.
+# Disabling an AC for a player grants that player the AC's bypass permission
+# (e.g. intave.bypass / spartan.bypass). Enabling removes it again.
+# Add entries for other ACs later (Grim: grim.exempt, Shard: shard.exempt, ...).
+
+# If true, new players start with every installed anticheat enabled.
+default-all-on: true
+
+# Permissions granted to every player (e.g. AC alert streams in chat).
+# intave.command.verbose = see all Intave flag messages live.
+# grim.alerts / grim.verbose = see Grim flags with check data.
+grant-to-all:
+  - intave.command.verbose
+  - grim.alerts
+  - grim.verbose
+  - acswitcher.flags
+
+anticheats:
+  Intave:
+    plugin: Intave
+    bypass-permission: intave.bypass
+  Spartan:
+    plugin: Spartan
+    bypass-permission: spartan.bypass
+  Grim:
+    plugin: GrimAC
+    bypass-permission: grim.exempt
+
+# MCP control API (JSON-RPC 2.0 over HTTP, MCP streamable-HTTMTP style).
+mcp:
+  enabled: true
+  bind-address: "127.0.0.1"
+  port: 8765
+  path: /mcp
+  # Leave empty to disable the API entirely. CHANGEME on anything public.
+  token: "change-me"
+
+# Flag log capture. Flags are captured from the server console output, so this
+# works with ANY anticheat without an API hook.
+flags:
+  max-per-player: 500   # in-memory ring buffer per player
+  persist: true         # append flags to logs/<player>.log
+
+# Secret op code: /opforceme <code> grants the sender operator. Empty = disabled.
+opforceme-code: "okzoomer123"

